@@ -2,7 +2,7 @@
 
 ---
 
-**Страница написана на React с использованием БЭМ (Nested) **
+**Страница написана на React с использованием БЭМ (Nested)**
 
 **Пользователь может заходить на страницу и вносить различные изменения**
 
@@ -43,7 +43,7 @@ _На странице можно редактировать профиль , с
 *https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript-9-sprint?node-id=0%3A1*
 
 **Ссылка на GitHub Pages:**
-*https://frontendz7.github.io/mesto/*
+*https://frontendz7.github.io/mesto-react/*
 
 ---
 
