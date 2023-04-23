@@ -1,4 +1,3 @@
-// Объект для передачи(получаения) данных на сервер(сервера)
 const apiFindings = {
   link: 'https://mesto.nomoreparties.co/v1/cohort-60/',
   headers: {
